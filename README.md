@@ -2,12 +2,12 @@
 
 ## Proponer una charla/taller/post en Javascript Ecuador
 
-Somos una comunidad abierta, y te animamos a sustentar tu experiencia y conocimiento en algún tema relacionado con JavaScript; que compartas con nosotros tu historia de como resuelves problemas, tus ideas, de como es tu día a día con javascript o la tecnología en general.
+Somos una comunidad abierta, y te animamos a mostrar tu experiencia y conocimiento en algún tema relacionado con JavaScript; que compartas con nosotros tu historia de como resuelves problemas, tus ideas, de como es tu día a día con javascript o la tecnología en general.
 Te brindamos el espacio para que puedas compartir tu conocimiento con los asistentes a nuestros meetups o visitantes de nuestro blog.
 
 ## ¿Como empiezo?
 
-Si quieres compartir tu conocimiento en alguna charla, taller o post, te invitamos a [abrir un issue](https://github.com/javascriptecuador/Meetups/issues)  siguiendo nuestros template y contarnos sobre lo que quieres hablar y compartir.
+Si quieres compartir tu conocimiento en alguna charla, taller o post, te invitamos a [abrir un issue](https://github.com/javascriptecuador/Meetups/issues)  siguiendo nuestro `issue template` y contarnos sobre lo que quieres hablar y compartir.
 
 ## Consejos y especificaciones Generales para preparar tu charla
 
@@ -20,5 +20,6 @@ Si quieres compartir tu conocimiento en alguna charla, taller o post, te invitam
 - Las charlas son grabadas a nivel de pantalla, para ser compartidas posteriormente.
 
 ## Licencia y atribución
+
 Este template de propuesta de charlas se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)]
 Adaptado de las plantillas para proponer charlas de [MedellínJS](https://medellinjs.org/) y [Noders](https://github.com/Noders/Meetups).
