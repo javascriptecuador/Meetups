@@ -25,6 +25,10 @@ assignees: ''
 - [] Post
 - [] Charla y taller (del mismo tema)
 
+## ¿Lugar de la charla?
+<!-- Describir el lugar, ciudad de la charla, o si es de manera online-->
+
+
 ## Título de la charla
 <!-- Este téma debe resumir la idea central de tu presentación.
 Algo como:
