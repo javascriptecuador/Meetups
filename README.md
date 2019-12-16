@@ -21,6 +21,6 @@ Si quieres compartir tu conocimiento en alguna charla, taller o post, te invitam
 
 ## Licencia y atribución
 
-Este template de propuesta de charlas se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)
+Este template de propuesta de charlas se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Adaptado de las plantillas para proponer charlas de [MedellínJS](https://medellinjs.org/) y [Noders](https://github.com/Noders/Meetups).
