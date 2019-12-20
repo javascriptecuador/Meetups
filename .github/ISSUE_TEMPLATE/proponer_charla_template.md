@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-> Nuestros eventos se rigen por nuestro código de conducta **Pendiente!** [https://github.com/javascriptecuador/codigo-de-conducta]
+> Nuestros eventos se rigen por nuestro código de conducta [https://github.com/javascriptecuador/.github/blob/master/CODE_OF_CONDUCT.md]
 
 ## Dirección de Correo electrónico
 
